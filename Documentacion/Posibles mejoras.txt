@@ -1,0 +1,16 @@
+- Permitir que usuarios sin registrar accedan a la aplicación y exploren la página de buscar ofertas ( habilidades ofertadas y quién las ofrece )
+
+- Ampliar la información del perfil del usuario con la edad, la zona, el sexo, una foto, ...
+
+- Modificación y eliminación de habilidades ofertadas y demandadas en la página de perfil.
+  Para hacerlo a lo mejor habría que distinguir entre navegación (solo lectura) y edición (lectura/escritura) de habilidades.
+  Habría que hacer otra pantalla de Aceptar/Cancelar la modificación o eliminación.
+  Además habría problemas de consistencia de la información (p. ej. al modificar o eliminar habilidades que ya están en proceso de intercambio)
+
+- Incluir categorías de habilidades.
+  A lo mejor habría que hacer una página para darlas de alta y consultarlas (mismos problemas que antes para la modificación y eliminación).
+  Habría que cambiar la página de perfil para que cada habilidad ofertada o solicitada mostrase su categoría tanto al consultarlas como para añadirlas.
+  Habría que hacer cambios en la base de datos.
+
+- Permitir que la página de buscar habilidades ofertadas ( y quién las ofrece ) también se puedan buscar habilidades solicitadas y quién las demanda.
+
